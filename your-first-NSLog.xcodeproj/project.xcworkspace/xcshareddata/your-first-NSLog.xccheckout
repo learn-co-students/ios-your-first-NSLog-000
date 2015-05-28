@@ -10,6 +10,8 @@
 	<string>your-first-NSLog</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>BCBB7458D06BF4AFF5C4772D2C4A4CBAF86D9685</key>
+		<string>https://github.com/movingdecimals/Projects.git</string>
 		<key>F9805C79BAB210B94A68759E9026981E5591643F</key>
 		<string>github.com:learn-co-curriculum/your-first-NSLog.git</string>
 	</dict>
@@ -17,6 +19,8 @@
 	<string>your-first-NSLog.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>BCBB7458D06BF4AFF5C4772D2C4A4CBAF86D9685</key>
+		<string>../../..</string>
 		<key>F9805C79BAB210B94A68759E9026981E5591643F</key>
 		<string>../..</string>
 	</dict>
@@ -28,6 +32,14 @@
 	<string>F9805C79BAB210B94A68759E9026981E5591643F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCBB7458D06BF4AFF5C4772D2C4A4CBAF86D9685</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
