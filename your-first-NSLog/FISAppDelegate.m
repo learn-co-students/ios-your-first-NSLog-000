@@ -15,10 +15,12 @@
 @implementation FISAppDelegate
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+- (BOOL)application:(UIApplication *)application
+didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    // HEY!
+    NSLog(@"hello world");
     
+    // HEY!
     // write your code here! :D
     
     return YES; // except don't touch this line
