@@ -9,8 +9,12 @@
     /**
     
      * Hey! Write your code here! :D
-     
+
      */
+    
+    
+    NSLog(@"Hello, World!");
+
     
     // do not alter
     return YES;  //
