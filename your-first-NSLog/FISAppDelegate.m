@@ -20,7 +20,21 @@
     // HEY!
     
     // write your code here! :D
-    NSLog(@"Hello World!");
+    NSLog(@"Dalek");
+    NSLog(@"%@", @"Dalek");
+    NSLog(@"%@%@%@%@%@", @"D", @"a", @"l", @"e", @"k");
+    
+    NSLog(@"Interpolate!");
+    NSLog(@"%@", @"Interpolate!");
+    NSLog(@"%@ %@", @"Interpolate!", @"Interpolate!");
+    NSLog(@"%@%@%@%@!", @"In", @"ter", @"po", @"late");
+    NSLog(@"%@-%@-%@-%@!", @"In", @"ter", @"po", @"late");
+    
+    NSLog(@"Your are not The Doctor!");
+    NSLog(@"%@", @"You are not The Doctor!");
+    NSLog(@"%@%@%@%@%@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"%@ %@ %@ %@ %@%@", @"You", @"are", @"not", @"The", @"Doctor", @"!");
+    NSLog(@"You are %@ %@!", @"not", @"The Doctor");
     
     return YES; // except don't touch this line
 }
